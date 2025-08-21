@@ -42,7 +42,7 @@ In this section, we´ll add a quick list mencioning the key spots to get data fr
 1. Speed | GPS sensor | Status: Completed. | Mounted anywhere on the car.
      ![speed](/docs/images/gps_speedgraphs_sample.jpg)
 2. Position tracking | GPS sensor | Status: Partially completed (Issues w/ Blynk cloud) | Mounted anywhere on the car.
-3. Engine RPM | Sensing Coil | Status: 50% completed | Mounted arround the sparkplug cable of the engine.
+3. Engine RPM | Hall Effect | Status: 90% completed | Running in an Arduino board and sent thorugh Serial
 4. Suspension shock dynamics | Unknown | Status: 0% | -
 5. Reductor temp. | Thermocouple XS 168 or similar | Status: Partially completed, prog. completed, sensor unmounted | Bolted directly on the reductor.
 
